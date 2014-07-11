@@ -1,0 +1,33 @@
+{
+	"toolTip" : {
+		"play":"Play",
+		"pause":"Pause",
+		"muteOn":"Volume On",
+		"muteOff":"Volume Off",
+		"volumeBar":"Volume",
+		"downloadOn":"Fichier audio",
+		"pdf":"Transcript",
+		"aide":"Aide"
+	},
+	"interface" : {
+		"enableSound":"Activer le son",
+		"disableSound":"D\u00e9sactiver le son",
+		"stopSound":"Interrompre le fichier audio",
+		"playSound":"Lire le fichier audio",
+		"showTranscriptOnSound":"Afficher le transcript du fichier audio",
+		"downloadAudio":"T\u00e9l\u00e9charger le fichier audio",
+		"audioPlayerAccessible":"Player audio accessible et conforme aux normes WCAG 2.0",
+		"poweredBy":"R\u00e9alis\u00e9 par",
+		"ForCompany":"pour le Groupe La Poste",
+		"help":"AIDE",
+		"shortcutTitle":"RACCOURCIS CLAVIER",
+		"shortcut1":"<b><</b>  Pour avancer dans la lecture",
+		"shortcut2":"<b>Maj+<</b>  Pour reculer dans la lecture",
+		"shortcut3":"<b>Ctrl+Maj+P. Préc.</b> pour augmenter le volume",
+		"shortcut4":"<b>Ctrl+Maj+P. Suiv.</b> pour diminuer le volume",
+		"soundHelp":"Aide du player",
+		"cutSound":"Couper le son",
+		"showTranscript":"Afficher le transcript",
+		"flashAlternative":"L'alernative Flash ne peut &#234;tre utilis\u00e9e, veuillez activer le plugin Flash et veillez à ce que JavaScript soit activ\u00e9"
+	}
+}

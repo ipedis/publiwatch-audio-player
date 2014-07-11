@@ -1,0 +1,16 @@
+/**
+* hacking ie lte 7 stylesheet for audio pwPlayer
+* @author Ipedis
+*
+*/
+
+div.timeBar div.time{
+    display : inline;
+}
+
+
+div.soundWrapper span.toolTip {
+	margin-top:13px;
+    background-repeat: repeat-x;
+    padding-top: 0px;
+}

@@ -1,0 +1,33 @@
+{
+	"toolTip" : {
+		"play":"Play",
+		"pause":"Pause",
+		"muteOn":"Volume On",
+		"muteOff":"Volume Off",
+		"volumeBar":"Volume",
+		"downloadOn":"Get audio file",
+		"pdf":"Transcript",
+		"aide":"Help"
+	},
+	"interface" : {
+		"enableSound":"Enable sound",
+		"disableSound":"Disable sound",
+		"stopSound":"Stop audio file",
+		"playSound":"Play audio file",
+		"showTranscriptOnSound":"Display audio file transcription",
+		"downloadAudio":"Download audio file",
+		"audioPlayerAccessible":"Accessible audio playerconforming to WCAG 2.0 standards",
+		"poweredBy":"Produced by",
+		"ForCompany":"for La Poste Group",
+		"help":"HELP",
+		"shortcutTitle":"SHORTCUTS",
+		"shortcut1":"<b><</b>  Go forward",
+		"shortcut2":"<b>Maj+<</b>  Go backward",
+		"shortcut3":"<b>Ctrl+Maj+P. Préc.</b> Increase volume",
+		"shortcut4":"<b>Ctrl+Maj+P. Suiv.</b> Decrease volume",
+		"soundHelp":"Audio player help",
+		"cutSound":"Cut off the sound",
+		"showTranscript":"Display transcript",
+		"flashAlternative":"The Flash alternative is not available, please enable either Javascript and Adobe Flash Player plugin."
+	}
+}

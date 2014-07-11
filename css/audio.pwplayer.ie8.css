@@ -1,0 +1,13 @@
+/**
+* hacking ie lte 8 stylesheet for audio pwPlayer
+* @author Ipedis
+*
+*/
+
+
+div.soundWrapper span.toolTip {
+	margin-top:13px;
+    background-repeat: repeat-x;
+    padding-top: 0px;
+    margin-top: 12px;
+}
