@@ -68,6 +68,11 @@ l'ID de la balise audio.
 Il faut par la suite modifier manuellement l'ensemble des classes CSS dans
 audio.pwplayer.css
 
+
+#### Démo :
+Une démonstration du player est disponible à cette url :
+ http://demo.ipedis.com/audio-player/
+
 ## API Externe
 
 Le Player est pilotable depuis l'extérieur du plugin via plusieurs fonctions clé
