@@ -1,7 +1,7 @@
 // jQuery PubliWatch Audio Player, accessible and responsive
 // version 1.2, November 6th, 2013
 // by Ipedis
-// Licence: Creative Common 3.0 BY-SA
+// License: Creative Common 3.0 BY-SA
 pwTranslate = false;
 
 (function($, App) {
